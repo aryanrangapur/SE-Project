@@ -1,2 +1,2 @@
 # SE-Project
-Pharma Supply Chain Management System
+Pharma Supply Chain Management System (end to end)
