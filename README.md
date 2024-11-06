@@ -1,3 +1,3 @@
 # SE-Project
 Pharma Supply Chain Management System (end to end)
-With Home page, feedback page, Login page, Register page 
+With Home page, Feedback page, Login page and Register page. 
