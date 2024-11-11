@@ -35,12 +35,12 @@ To set up this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/aryanrangapur/scms-project.git
+      git clone https://github.com/aryanrangapur/scms-project.git
 2. **Navigate to the Project Directory**:
 
-  ```bash
-  cd scms-project
-```
+    ```bash
+     cd scms-project
+
 ## Run the Application
 Open `index.html` in your browser to view the static frontend pages.
 
