@@ -6,10 +6,8 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
-- [Project Structure](#project-structure)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contributions](#contributions)
+
 
 ## Introduction
 This project is a **Pharmaceutical Supply Chain Management System (SCMS)** that aims to address common challenges in the pharmaceutical supply chain, including operational inefficiencies, counterfeiting risks, and complex regulatory requirements. Our SCMS improves transparency, security, and efficiency across various roles—users, suppliers, and administrators.
@@ -30,9 +28,7 @@ The current version of the project includes a Home page, Feedback page, Login pa
 - **Reporting and Analytics**: Provides insights on inventory levels, orders, and shipment status.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, React JSX
-- **Backend**: Firebase (for authentication and database, to be integrated)
-- **Database**: Firebase Firestore (planned for backend functionality)
+- **Frontend**: HTML, CSS
   
 ## Setup and Installation
 To set up this project locally, follow these steps:
