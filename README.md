@@ -42,7 +42,7 @@ To set up this project locally, follow these steps:
      cd scms-project
 
 ## Run the Application
-Open `index.html` in your browser to view the static frontend pages.
+Open `home.html` in your browser to view the static frontend pages.
 
 > **Note**: Backend functionality using Firebase is not yet integrated. This version includes static HTML and CSS pages.
 
