@@ -34,8 +34,8 @@ The current version of the project includes a Home page, Feedback page, Login pa
 To set up this project locally, follow these steps:
 
 1. **Clone the Repository**:
-   ```bash
-      git clone https://github.com/aryanrangapur/scms-project.git
+     ```bash
+      git clone https://github.com/aryanrangapur/SE-Project.git
 2. **Navigate to the Project Directory**:
 
     ```bash
