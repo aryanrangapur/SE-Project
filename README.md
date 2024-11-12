@@ -39,7 +39,7 @@ To set up this project locally, follow these steps:
 2. **Navigate to the Project Directory**:
 
     ```bash
-     cd scms-project
+     cd SE-Project
 
 ## Run the Application
 Open `home.html` in your browser to view the static frontend pages.
